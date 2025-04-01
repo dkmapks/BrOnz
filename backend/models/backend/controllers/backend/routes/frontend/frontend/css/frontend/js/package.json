@@ -1,0 +1,12 @@
+{
+  "name": "mobywatel-generator",
+  "version": "1.0.0",
+  "main": "backend/app.js",
+  "scripts": {
+    "start": "node backend/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  }
+}
